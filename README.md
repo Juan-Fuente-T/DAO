@@ -1,4 +1,5 @@
-# NFT DAO Proposal and Voting System
+# DAO con sistema de propuestas con NFT
+
 ## Description
 This decentralized autonomous organization (DAO) is designed to enable NFT holders to create and vote on proposals. The DAO is governed by NFT holders, who have the ability to vote on proposals within the organization. If a proposal is accepted, it automatically triggers the purchase of an NFT from a simulated marketplace.
 
